@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Android Sensor App</string>
+    <string name="title_description"> Enable camera sensor after "n" number of seconds (timer and camera).</string>
+    <string name="logo">spartan helmet</string>
+    <string name="enable">Enable Sensors</string>
+    <string name="close">Close</string>
+    <string name="label">Number of Seconds:</string>
+    <string name="hint">Enter here</string>
+
+</resources>
